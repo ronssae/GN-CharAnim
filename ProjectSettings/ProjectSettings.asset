@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 299257ad62ff8b94abb7109800bb0580
+  productGUID: 728636a9c6052204f99cd8d476a3577d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: GN-Animated
+  productName: GN-Anim
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,14 +837,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: GN-Animated
+  metroPackageName: GN-Anim
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: GN-Animated
+  metroApplicationDescription: GN-Anim
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,10 +915,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 82129bfe-1c3c-41fa-933a-431875a9f258
+  cloudProjectId: fe48a1ec-942c-4ef1-bd9f-37b0da3cd233
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: GN-Animated
+  projectName: GN-Anim
   organizationId: ronssae
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
